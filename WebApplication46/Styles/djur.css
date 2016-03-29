@@ -1,0 +1,22 @@
+﻿body {
+    background-color: pink;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: orangered;
+}
+p {
+    background-color: lightblue;
+    color: blueviolet;
+}
+a {
+    background-color: gainsboro;
+}
+a:active {
+    color: green;
+}
+.active {
+    background-color: red;
+}
