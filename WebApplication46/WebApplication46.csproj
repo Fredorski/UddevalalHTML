@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index2.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -80,6 +81,7 @@
     <Content Include="HTML\hund.html" />
     <Content Include="HTML\katt.html" />
     <Content Include="index.html" />
+    <Content Include="Styles\divOspan.css" />
     <Content Include="Styles\djur.css" />
     <Content Include="Styles\stilig.css" />
     <Content Include="Web.config" />
