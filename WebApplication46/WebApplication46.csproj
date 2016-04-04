@@ -66,9 +66,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="2016-04-04\Colorfull.html" />
+    <Content Include="2016-04-04\colors.css" />
     <Content Include="2016-04-04\FormTabell.html" />
     <Content Include="2016-04-04\Formular.html" />
     <Content Include="2016-04-04\index.html" />
+    <Content Include="2016-04-04\Zuzammen.html" />
     <Content Include="images\Hjul.jpg" />
     <Content Include="images\hjulet.jpg" />
     <Content Include="index2.html" />

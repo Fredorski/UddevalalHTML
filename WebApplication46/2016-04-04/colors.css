@@ -1,0 +1,14 @@
+﻿body {
+    background-color: red;
+}
+
+h1 {
+    color: #00ff00;
+    color: #0f0;
+    color: rgb(0,255,0);
+    color: rgba(0,255,0,0.8);
+    color: lawngreen;
+    color: hsl(120,70,0.2);
+    color: #00F;
+    color: blue;
+}
