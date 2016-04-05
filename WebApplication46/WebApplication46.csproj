@@ -76,6 +76,7 @@
     <Content Include="2016-04-05\images\Lars.jpg" />
     <Content Include="2016-04-05\images\WT.jpg" />
     <Content Include="2016-04-05\index.html" />
+    <Content Include="2016-04-05\pages\CenterWrapper.html" />
     <Content Include="2016-04-05\pages\tabbelenJajamensan.html" />
     <Content Include="2016-04-05\styles\cellphone.css" />
     <Content Include="2016-04-05\styles\computer.css" />
