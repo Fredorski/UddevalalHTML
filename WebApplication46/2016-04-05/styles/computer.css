@@ -1,0 +1,16 @@
+﻿body {
+    background-color: forestgreen;
+}
+input:hover{
+    border: 10px solid red;
+
+}
+.produktnummer{
+    font-weight: bold;
+}
+input{
+    color:red;
+}
+input:focus{
+    color: green;
+}
