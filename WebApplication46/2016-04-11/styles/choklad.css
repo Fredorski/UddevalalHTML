@@ -1,5 +1,5 @@
-﻿header, section, footer, aside, nav, article, figure, figcaption{
-    display:block;
+﻿header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;
 }
 
 body {
@@ -29,26 +29,42 @@ header {
     background-image: url('../images/logo.png');
     border-bottom-left-radius: 40px 20px;
 }
-h1{
-    text-indent:-9999px;
-    width:900px;
-    height:150px;
-    margin:0;
-}
 
-nav, footer{
+h1 {
+    text-indent: -9999px;
+    width: 900px;
+    height: 150px;
+    margin: 0;
+}
+article{
     clear:both;
+    width:100%;
+}
+figure{ /*bilderna inklusive text*/
+        width: 235px;
+        height:200px;
+        float:left;
+}
+nav, footer {
+    clear: both;
     color: magenta;
     background-color: #592202;
     height: 30px;
 }
-nav ul{
-    margin:0;
-    padding: 5px 0; /*uppe/nere samt höger/vänster*/
-    padding: 5px 0 5px 0; /*Klockmodellen ger uppe,höger, nere, vänster*/
-    /*detta blir mellanrummen på ul-boxen*/
-}
-nav ul li{
-    display: inline; /*gör att elementen hamnar efter varandra*/
-    margin-right: 50px; /*skapar ett mellanrum mellan li-elemenen*/
-}
+
+
+    nav ul {
+        margin: 0;
+        padding: 5px 0; /*uppe/nere samt höger/vänster*/
+        padding: 5px 0 5px 0; /*Klockmodellen ger uppe,höger, nere, vänster*/
+        /*detta blir mellanrummen på ul-boxen*/
+    }
+
+        nav ul li {
+            display: inline; /*gör att elementen hamnar efter varandra*/
+            margin-right: 50px; /*skapar ett mellanrum mellan li-elemenen*/
+        }
+
+            nav ul li a { /*alla a som ligger i en li som ligger i en ul som ligger i en nav*/
+                color: #000;
+            }
