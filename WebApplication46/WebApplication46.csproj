@@ -87,6 +87,12 @@
     <Content Include="2016-04-06\images\hjulet.jpg" />
     <Content Include="2016-04-06\index.html" />
     <Content Include="2016-04-06\RadioButtons.html" />
+    <Content Include="2016-04-11\images\Drippel.PNG" />
+    <Content Include="2016-04-11\images\iron.PNG" />
+    <Content Include="2016-04-11\images\kaka.PNG" />
+    <Content Include="2016-04-11\images\logo.png" />
+    <Content Include="2016-04-11\index.html" />
+    <Content Include="2016-04-11\styles\choklad.css" />
     <Content Include="images\Hjul.jpg" />
     <Content Include="images\hjulet.jpg" />
     <Content Include="index2.html" />
@@ -112,7 +118,9 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="2016-04-11\pages\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
