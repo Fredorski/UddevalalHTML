@@ -1,3 +1,10 @@
 ﻿body {
-    background-color:hotpink;
+    color: #666; /*grå text*/
+    background-color: #fefefe; /*ljusgrå bakgrund*/
+    background-image: url('../images/Drippel.PNG');
+    /*background-position: center;*/
+    background-repeat: repeat-x;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: 600px;
 }
