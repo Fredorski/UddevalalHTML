@@ -4,7 +4,17 @@
     background-image: url('../images/Drippel.PNG');
     /*background-position: center;*/
     background-repeat: repeat-x;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-size: 600px;
+    background-repeat: no-repeat; 
+    background-size: 100%;  /*varning för layoutfel*/
+    background-size: 600px; /*täcker 600px bredd*/
+    font-family: Georgia,'Times New Roman', serif;
+    line-height: 1.4em; /*radavstånd*/
+    margin: 0;
+}
+#wrapper{ /*det id som kapslar in hela body*/
+    width:900px;
+    margin: 20px auto 20px auto;
+    margin: 20px auto; /*samma som raden ovanför*/
+    /*margin: 3px; sätter alla samtidigt*/
+    background-color:#401201; /*chokladbrun*/
 }
