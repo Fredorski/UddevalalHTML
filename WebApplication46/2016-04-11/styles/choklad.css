@@ -69,7 +69,15 @@ aside {
     float: left;
     padding: 0 0 0 20px;
 }
-
+span{
+    font-size:3rem;
+    border-radius:50%;
+    border: 4px solid green;
+    margin:5px;
+}
+.current{
+    border-color:blue;
+}
     aside section a {
         display: block;
         padding: 10px;
