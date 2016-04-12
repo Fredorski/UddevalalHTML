@@ -93,6 +93,7 @@
     <Content Include="2016-04-11\images\logo.png" />
     <Content Include="2016-04-11\index.html" />
     <Content Include="2016-04-11\styles\choklad.css" />
+    <Content Include="2016-04-12\BootstrapElgiganten.html" />
     <Content Include="2016-04-12\bootstraping.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
