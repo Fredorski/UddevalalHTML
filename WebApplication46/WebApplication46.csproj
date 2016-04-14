@@ -95,9 +95,13 @@
     <Content Include="2016-04-11\styles\choklad.css" />
     <Content Include="2016-04-12\BootstrapElgiganten.html" />
     <Content Include="2016-04-12\bootstraping.html" />
+    <Content Include="2016-04-13\emil.html" />
     <Content Include="2016-04-13\malin.html" />
     <Content Include="2016-04-13\natalie.html" />
     <Content Include="2016-04-13\nina.html" />
+    <Content Include="2016-04-14\images\Hjul.jpg" />
+    <Content Include="2016-04-14\images\hjulet.jpg" />
+    <Content Include="2016-04-14\loivia.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
