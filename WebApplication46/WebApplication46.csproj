@@ -102,11 +102,13 @@
     <Content Include="2016-04-14\images\Hjul.jpg" />
     <Content Include="2016-04-14\images\hjulet.jpg" />
     <Content Include="2016-04-14\loivia.html" />
+    <Content Include="2016-04-20\BootSiba.html" />
     <Content Include="2016-04-20\images\Crane.png" />
     <Content Include="2016-04-20\images\EC.PNG" />
     <Content Include="2016-04-20\images\Roy.PNG" />
     <Content Include="2016-04-20\index.html" />
     <Content Include="2016-04-20\formen.html" />
+    <Content Include="2016-04-20\styles\BootStyler.css" />
     <Content Include="2016-04-20\styles\index.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
